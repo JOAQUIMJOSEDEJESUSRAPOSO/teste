@@ -1,2 +1,3 @@
-Apredendo a utilizar o Git e o GitHub
-:tada:
+´´´´Apredendo a utilizar o Git e o GitHub´´´´
+
+👌
